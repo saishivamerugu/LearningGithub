@@ -2,4 +2,8 @@ hello
 I have made a change
 chage was made by akash 
 collaborated with sai
+<<<<<<< HEAD
 completed my tasks
+=======
+completed my main tasks
+>>>>>>> main

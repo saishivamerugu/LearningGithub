@@ -3,7 +3,13 @@ I have made a change
 chage was made by akash 
 collaborated with sai
 <<<<<<< HEAD
+<<<<<<< HEAD
 completed my tasks
 =======
 completed my main tasks
+>>>>>>> main
+=======
+completed my main tasks
+completed my main tasks
+complete them
 >>>>>>> main

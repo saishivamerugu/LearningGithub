@@ -1,0 +1,13 @@
+diff --git a/akash.txt.txt b/akash.txt.txt
+index 1796ef3..b07eb52 100644
+--- a/akash.txt.txt
++++ b/akash.txt.txt
+@@ -6,4 +6,5 @@ completed my tasks
+ completed my main task
+ complete them
+ I created a change
+-I have learnt html css javaScript
+\ No newline at end of file
++I have learnt html css javaScript
++I also learnt java
+\ No newline at end of file
